@@ -1,0 +1,23 @@
+{
+  "name": "mean-stack-starter",
+  "version": "1.0.0",
+  "description": "simple mean stack stater",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enahomurphy/meanstack-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enahomurphy/meanstack-starter/issues"
+  },
+  "homepage": "https://github.com/enahomurphy/meanstack-starter#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
